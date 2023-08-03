@@ -17,7 +17,7 @@
 - 📫 How to reach me **immortalhosein110011@gmail.com**
 
 - ⚡ Fun fact **I really see different now..**
-<h3>states:</h3>
+<h3>States:</h3>
 
 [![Hosein Mkarimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosein110011)](https://github.com/hosein110011/github-readme-stats)
 
