@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Web Developement Projects as Backend Developer**
 
-- 💬 Ask me about **Python & Django**
+- 💬 Ask me about **Python & Java**
 
 - 📫 How to reach me **immortalhosein110011@gmail.com**
 
