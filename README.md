@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Hosein Mohammadkarimi</h1>
-<h3 align="center">Welcome to my profile. I'm bachelor of software engineering. Java and Python are my hobbies. Interested in music, AI and Data science.</h3>
+<h3 align="center">Welcome to my profile. I'm bachelor of software engineering. Java and Python are my hobbies. Interested in Web Development and Data science.</h3>
 <img src="https://camo.githubusercontent.com/304d00bfea9db9980dd13af9c5c2cb41f4ac76144cda22a5244b4c7790847503/68747470733a2f2f696d672e736869656c64732e696f2f776562736974653f646f776e5f636f6c6f723d626c756526646f776e5f6d6573736167653d626c75652675705f636f6c6f723d79656c6c6f772675705f6d6573736167653d6d79253230726573756d652675726c3d6874747073253341253246253246616c6962696764656c692e6769746875622e696f253246" alt="Website" data-canonical-src="https://img.shields.io/website?down_color=blue&amp;down_message=blue&amp;up_color=yellow&amp;up_message=my%20resume&amp;url=https://github.com/Hosein110011" style="max-width: 100%;"><
 - 🔭 I’m currently working on **Web appliacation**
 
